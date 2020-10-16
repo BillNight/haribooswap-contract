@@ -4,6 +4,8 @@ https://softdrinkswap.org. Feel free to read the code. More details coming soon.
 
 ## Deployed Contracts / Hash
 
+- DeployerAddress - https://bscscan.com/address/0x976c9647522BE3E1555596CAF9B2178a42E4799B
+- DevAddress - https://bscscan.com/address/0x38AA820904815E53F779704FBB9198aA7C44AbdC
 - ColaToken - https://bscscan.com/address/0x740426e58a10aC3b6724f753C8468288248137F9
 - ColaMaster - https://bscscan.com/address/0x4bd036d0f356FD92e5f5a0bf46E8a91840674119
 - SodaToken - https://bscscan.com/address/0xf59418cF51326C1BAB26fA96BD33eB968ef7257F
